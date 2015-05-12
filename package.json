@@ -1,0 +1,25 @@
+{
+  "name": "lomis-kc-facilities-api",
+  "version": "1.0.0",
+  "description": "an api to update lomis facilities from kano connect data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freefony/lomis-kc-facilities-api.git"
+  },
+  "keywords": [
+    "lomis",
+    "facilities",
+    "kano",
+    "connect"
+  ],
+  "author": "ehealth systems africa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freefony/lomis-kc-facilities-api/issues"
+  },
+  "homepage": "https://github.com/freefony/lomis-kc-facilities-api"
+}
